@@ -1,0 +1,3 @@
+
+Inimeste arv kes on noorem kui m on : 2
+Nende keskmine vanus on : 28
